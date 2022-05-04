@@ -4,7 +4,7 @@ chance=0
 
 while chance<5 :
 
-    guess= int(input("Enter a numner between 0 to 10"))
+    guess= int(input("Enter a number between 0 to 10"))
 
 
     if (guess == rand):
